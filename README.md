@@ -12,7 +12,7 @@ A simple, mobile-friendly todo app built with vanilla JavaScript.
 
 ## Live Demo
 
-Visit the live app at: [Todo Claude Mobile](https://yourusername.github.io/todo-claude-mobile/)
+Visit the live app at: [Todo Claude Mobile](https://souvick88.github.io/todo-claude-mobile/)
 
 ## Usage
 
